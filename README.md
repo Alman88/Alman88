@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alman88
+- 👋 Hi, I’m @mereducci
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on stuff.
